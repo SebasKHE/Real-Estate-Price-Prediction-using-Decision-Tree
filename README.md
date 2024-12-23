@@ -1,8 +1,8 @@
 
-# **Real Estate Price Prediction using Decision Tree**
+# **Real Estate Price Prediction using Regression Tree**
 
 ## **Project Description**
-This project uses a **decision tree model** to predict real estate prices based on various factors such as crime rate, average number of rooms, distance to employment centers, and more. The dataset provides information on different housing attributes, and the model aims to predict the median value of homes in thousands of dollars.
+This project uses a **Regression tree model** to predict real estate prices based on various factors such as crime rate, average number of rooms, distance to employment centers, and more. The dataset provides information on different housing attributes, and the model aims to predict the median value of homes in thousands of dollars.
 
 The decision tree algorithm is employed to learn patterns in the data and predict house prices based on the provided features.
 
